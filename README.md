@@ -1,2 +1,36 @@
-# assignment-tsdigisol
-Assignment from TS Digisol regarding job postion of react-native developer.
+<p align="center">
+  <h1 align="center">OnBoarding Login Signup - React Native</h1>  
+</p>
+
+[![License](https://img.shields.io/github/license/AbdelhamidLarachi/react-native-ecommerce)](https://github.com/AbdelhamidLarachi/react-native-ecommerce/blob/main/LICENSE) [![Version](https://img.shields.io/badge/version-v1.0.0-blue)]() [![Framework](https://img.shields.io/badge/Made%20with-React_native-blue?style=flat&logo=react)](https://reactnative.dev/) [![libraries](https://img.shields.io/badge/%20-%20third%20party%20libraries-lightgrey)]() [![Donate](https://img.shields.io/badge/Buy%20me%20a%20cofee-Donate-lightgreen?style=flat&logo=BUY%20ME%20A%20coffee)](https://www.buymeacoffee.com/abdelhamid)
+
+
+## Pages
+
+- OnBoarding page.
+- Signup.
+- Login.
+
+## Screenshots
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-login-signup/master/img/register.png"> <img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-login-signup/master/img/welcomeBack.png">
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-login-signup/master/img/onBoarding.png"> 
+
+## Development
+
+```bash
+# Dependencies
+npm install
+
+# iOS only
+cd ios && pod install && cd ..
+
+# Run iOS
+npx react-native run-ios
+
+# Run Android
+npx react-native run-android
+
+```
+
+[![Donate](https://img.shields.io/badge/Buy%20me%20a%20cofee-Donate-lightgreen?style=flat&logo=BUY%20ME%20A%20coffee)](https://www.buymeacoffee.com/abdelhamid)
